@@ -1,0 +1,28 @@
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.xml
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.vbprojResolveAssemblyReference.cache
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\MainWindow.g.vb
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Application.g.vb
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse_MarkupCompile.cache
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse_MarkupCompile.lref
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\MainWindow.baml
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.g.resources
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.Resources.resources
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.vbproj.GenerateResource.Cache
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.xml
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\EntityFramework.dll
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\MySql.Data.dll
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\mysql.data.entity.EF6.dll
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\EntityFramework.xml
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\MainMenu.g.vb
+c:\users\yozuke\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\MainMenu.baml
+C:\Users\Yozuke\Source\Repos\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\Yozuke\Source\Repos\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\Yozuke\Source\Repos\Warehouse\Warehouse\obj\Debug\Warehouse.xml
+C:\Users\Yozuke\Source\Repos\Warehouse\Warehouse\obj\Debug\Warehouse.pdb

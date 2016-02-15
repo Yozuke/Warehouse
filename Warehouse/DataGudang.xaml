@@ -1,0 +1,80 @@
+﻿<Window x:Class="DataGudang"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Warehouse"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" WindowState="Maximized"
+        Title="DataGudang" Height="626.766" Width="815.242">
+
+    <Grid>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Stretch" Margin="0,186,-0.2,57.8" VerticalAlignment="Center" Height="353" Width="809"/>
+        <TextBox x:Name="search_box" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="535"/>
+        <GroupBox x:Name="groupBox" Header="Advanced Filter" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Height="143" Width="535">
+            <Label x:Name="label1_Copy" Content="-" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,41,253.6,0" RenderTransformOrigin="2.719,5.057" Width="16"/>
+        </GroupBox>
+        <ComboBox x:Name="search_filter" HorizontalAlignment="Left" VerticalAlignment="Top" Width="161" Margin="94,65,0,0">
+            <ComboBoxItem Content="Kode Barang"/>
+            <ComboBoxItem Content="Nama"/>
+        </ComboBox>
+        <DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Margin="94,98,0,0" Width="161"/>
+        <Label x:Name="label1" Content="Date Filter :" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,98,714.8,0" RenderTransformOrigin="2.719,5.057" Width="76"/>
+        <DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Margin="298,97,0,0" Width="161"/>
+        <Label x:Name="label1_Copy1" Content="Search By :" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,62,714.8,0" RenderTransformOrigin="2.719,5.057" Width="76"/>
+        <Label x:Name="label" Content="Hour :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="94,134,0,0"/>
+        <ComboBox x:Name="comboBox1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Margin="136,137,0,0">
+            <ComboBoxItem Content="00:00"/>
+            <ComboBoxItem Content="01:00"/>
+            <ComboBoxItem Content="02:00"/>
+            <ComboBoxItem Content="03:00"/>
+            <ComboBoxItem Content="04:00"/>
+            <ComboBoxItem Content="05:00"/>
+            <ComboBoxItem Content="06:00"/>
+            <ComboBoxItem Content="07:00"/>
+            <ComboBoxItem Content="08:00"/>
+            <ComboBoxItem Content="09:00"/>
+            <ComboBoxItem Content="10:00"/>
+            <ComboBoxItem Content="11:00"/>
+            <ComboBoxItem Content="12:00"/>
+            <ComboBoxItem Content="13:00"/>
+            <ComboBoxItem Content="14:00"/>
+            <ComboBoxItem Content="15:00"/>
+            <ComboBoxItem Content="16:00"/>
+            <ComboBoxItem Content="17:00"/>
+            <ComboBoxItem Content="18:00"/>
+            <ComboBoxItem Content="19:00"/>
+            <ComboBoxItem Content="20:00"/>
+            <ComboBoxItem Content="21:00"/>
+            <ComboBoxItem Content="22:00"/>
+            <ComboBoxItem Content="23:00"/>
+        </ComboBox>
+        <ComboBox x:Name="comboBox2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Margin="242,137,0,0">
+            <ComboBoxItem Content="06:00"/>
+            <ComboBoxItem Content="07:00"/>
+            <ComboBoxItem Content="08:00"/>
+            <ComboBoxItem Content="09:00"/>
+            <ComboBoxItem Content="10:00"/>
+            <ComboBoxItem Content="11:00"/>
+            <ComboBoxItem Content="12:00"/>
+            <ComboBoxItem Content="13:00"/>
+            <ComboBoxItem Content="14:00"/>
+            <ComboBoxItem Content="15:00"/>
+            <ComboBoxItem Content="16:00"/>
+            <ComboBoxItem Content="17:00"/>
+            <ComboBoxItem Content="18:00"/>
+            <ComboBoxItem Content="19:00"/>
+            <ComboBoxItem Content="20:00"/>
+            <ComboBoxItem Content="21:00"/>
+            <ComboBoxItem Content="22:00"/>
+            <ComboBoxItem Content="23:00"/>
+            <ComboBoxItem Content="23:59"/>
+        </ComboBox>
+        <Label x:Name="label2" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="223,134,0,0"/>
+        <Button x:Name="search_msk" Content="Search Masuk" HorizontalAlignment="Left" Margin="557,46,0,0" VerticalAlignment="Top" Width="80" Height="23"/>
+        <Button x:Name="search_klr" Content="Search Keluar" HorizontalAlignment="Left" Margin="557,82,0,0" VerticalAlignment="Top" Width="80" Height="23"/>
+        <Button x:Name="search_all" Content="Search Semua" HorizontalAlignment="Left" Margin="557,10,0,0" VerticalAlignment="Top" Width="80" Height="23"/>
+
+    </Grid>
+</Window>
