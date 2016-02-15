@@ -1,0 +1,9 @@
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\bin\Debug\Warehouse.Management.Model.dll
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\bin\Debug\Warehouse.Management.Model.pdb
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\bin\Debug\Warehouse.Management.Model.xml
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\obj\Debug\Warehouse.Management.Model.vbprojResolveAssemblyReference.cache
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\obj\Debug\Warehouse.Management.Model.Resources.resources
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\obj\Debug\Warehouse.Management.Model.vbproj.GenerateResource.Cache
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\obj\Debug\Warehouse.Management.Model.dll
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\obj\Debug\Warehouse.Management.Model.xml
+Z:\my-own-project\Warehouse\Warehouse.Management.Model\obj\Debug\Warehouse.Management.Model.pdb

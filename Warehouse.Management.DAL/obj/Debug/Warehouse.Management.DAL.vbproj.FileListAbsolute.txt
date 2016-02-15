@@ -1,0 +1,12 @@
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\obj\Debug\Warehouse.Management.DAL.vbprojResolveAssemblyReference.cache
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\obj\Debug\Warehouse.Management.DAL.Resources.resources
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\obj\Debug\Warehouse.Management.DAL.vbproj.GenerateResource.Cache
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\bin\Debug\Warehouse.Management.DAL.dll
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\bin\Debug\Warehouse.Management.DAL.pdb
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\bin\Debug\Warehouse.Management.DAL.xml
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\bin\Debug\Warehouse.Management.Model.dll
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\bin\Debug\Warehouse.Management.Model.pdb
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\bin\Debug\Warehouse.Management.Model.xml
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\obj\Debug\Warehouse.Management.DAL.dll
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\obj\Debug\Warehouse.Management.DAL.xml
+Z:\my-own-project\Warehouse\Warehouse.Management.DAL\obj\Debug\Warehouse.Management.DAL.pdb
